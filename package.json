@@ -1,0 +1,22 @@
+{
+  "name": "music-bot",
+  "version": "9.9.9",
+  "description": "Klanter tarafından striga için yapilan muzik botu.",
+  "main": "klantijs",
+  "scripts": {
+    "start": "node klanti.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "discord-player": "^3.3.2",
+    "@discordjs/opus": "^0.3.3"
+  },
+  "engines": {
+    "node": "14.x"
+  },
+  "license": "MIT",
+  "keywords": [
+    "discord",
+    "striga"
+  ]
+}
