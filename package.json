@@ -1,8 +1,8 @@
 {
   "name": "music-bot",
   "version": "9.9.9",
-  "description": "Klanter tarafından striga için yapilan muzik botu.",
-  "main": "klantijs",
+  "description": "Klanter tarafından  yapilan muzik botu.",
+  "main": "klanti.js",
   "scripts": {
     "start": "node klanti.js"
   },
